@@ -16,5 +16,11 @@
         "key": "1G",
         "expirydate": "15-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "69bff2348dcdf2ac",
+        "key": "0000",
+        "expirydate": "3-09-2026",
+        "Allowoffline": false
     }
 ]
