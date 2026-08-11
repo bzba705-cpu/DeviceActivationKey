@@ -34,5 +34,11 @@
         "key": "30daypremium",
         "expirydate": "09-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "818c7b3ce33fd971",
+        "key": "rroy",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
